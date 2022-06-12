@@ -1,16 +1,23 @@
-# flutternv1
+# Flutter NV1 - Deivid
 
-A new Flutter project.
+Recomendo cada aula desta PlayList do Professor Deivid.
+Vale a pena cada aula. A trilha apresenta os passos básicos fundamentais para iniciar no Flutter!
 
-## Getting Started
+# Tempo
 
-This project is a starting point for a Flutter application.
+Fiz a trilha até a aula 21 em apenas 8 horas de estudo contínuo. Este tempo poderá variar de pessoa para pessoa.
+Minha intenção foi revisitar as aulas do nível 1 para preencher lacunas de aprendizado. Valeu demais!
 
-A few resources to get you started if this is your first Flutter project:
+# Recomendação
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Iniciante: aproveite cada aula e faça o exercício junto com o professor. 
+Intermediário: aproveite para rever os conceitos especialmente:
+    - componentes: podem receber a passagem de controllers, entidades, etc;
+    - widgets: serão reaproveitos e não recebem controllers, etc;
+    - é boa prática isolar em um widget componentes das páginas que atuam como suas extensões;
+    - Aproveite e teste muito sobre passagem de parâmetros via rotas;
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Bons estudos
+
+Forte 73.
+Alexandre
